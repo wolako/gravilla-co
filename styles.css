@@ -142,6 +142,10 @@ label span{
     color: crimson;
 }
 
+.card{
+    box-shadow: 1px 3px 8px rgba(99, 96, 96, 0.5);
+}
+
 .card img{
     width: 300px;
     height: 250px;
