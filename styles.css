@@ -142,7 +142,8 @@ label span{
     color: crimson;
 }
 
-.card{
+.card:hover{
+    transition: all 0.2s;
     box-shadow: 1px 3px 8px rgba(99, 96, 96, 0.5);
 }
 
